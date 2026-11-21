@@ -9,7 +9,7 @@ import os
 TEXT = """Evening light moves across the wall, one slow inch at a time.
 The kettle ticks as it cools. A cup waits, warm in both hands.
 No one is knocking. The road outside is empty and unhurried.
-Whatever comes next can arrive the same way: quietly, in its own time.
+Whatever comes next can arrive the same way: quietly, at its own pace.
 You are still here."""
 
 
